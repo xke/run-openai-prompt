@@ -4,7 +4,7 @@ Python scripts to test a prompt with the OpenAI API.
 
 ## Installation
 
-Set up virtual environment and install dependencies):
+Set up virtual environment and install dependencies:
 
 ```
 python3 -m venv path/to/venv
@@ -30,7 +30,11 @@ python run-prompt.py prompt.txt
 
 ## Edits 
 
-The Python scripts default to using `o3`. Update the scripts to use another model.
+* Update `prompt.txt` to change the default prompt.
+
+* The Python scripts default to using `o3`. Update the scripts to use another model.
+
+
 
 
 
